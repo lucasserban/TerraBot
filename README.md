@@ -1,5 +1,5 @@
-# Assignment 1 POO - TerraBot
-### Serban Lucas Nicolae - 325CA
+# Java Application - TerraBot
+### Serban Lucas Nicolae
 ## Main logic:
 Firstly, I parsed the input with the help of constructors and I made the hierarchy
 of the entities, every entity has a constructor that has a parameter an input class.
@@ -43,3 +43,4 @@ if there is a type of entity in the entire map.
 The Robot class represents the robot of the simulation, it has field that help us keep track of the robot's `position`,
 `energy`, `inventory` and the `factList`. Most of the methods are getters and setters and methods to add or remove entities/facts
 from the inventory/factList.
+
